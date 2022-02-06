@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>在木星-歌词片段</title>
+    <link href="/2020/11/07/zaimuxing/"/>
+    <url>/2020/11/07/zaimuxing/</url>
+    
+    <content type="html"><![CDATA[<p>沧浪之江 西来水泱泱</p><p>江上一轮明月 照多少沉浮过往</p><p>沧浪之江 东往水莽莽</p><p>谁赏江上明月</p><p>谁听江声浩荡</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>关于时间的思考</title>
+    <link href="/2020/08/29/%E5%85%B3%E4%BA%8E%E6%97%B6%E9%97%B4%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <url>/2020/08/29/%E5%85%B3%E4%BA%8E%E6%97%B6%E9%97%B4%E7%9A%84%E6%80%9D%E8%80%83/</url>
+    
+    <content type="html"><![CDATA[<p>没有目标，就不知道该干什么，就容易让时间悄悄溜走。</p><p>没有计划，就不知道如何完成目标，也容易让时间悄悄溜走。</p><p>所谓计划，就是把时间花费到某种事物上，花费到有意义的事物上，才不会被白白浪费。</p><p>例如你每天醒来不知道干什么，就会很容易受到诱惑，例如玩游戏、刷视频、发呆、睡觉等等，此类诱惑会占据你过多的时间，从某种意义上来讲，你的生命缩短了。</p><p>因此为了抵御诱惑，可以将自己的时间安排的满一点，让“诱惑”无从下手。</p><p>我将时间的消费品分为以下几种</p><ol><li>长期投资型</li><li>短期回报型</li><li>娱乐放松型</li><li>兴趣探索型</li><li>毫无意义型</li></ol><p>长期投资型：学习以充实大脑，扩展知识，也为将来有一天厚积薄发积攒力量；锻炼以强健体魄，减少病痛，延长寿命。养育后代，教授知识与经验。</p><p>短期回报型：典型的就是上班，以自己的劳动力换取收入以维持生活，这种行为往往也伴随着很多心理和身体上的劳累。最好可以将短期回报型尽可能的转换为长期投资型，在搬砖中也要学习，不能只干活不提升。</p><p>娱乐放松型：例如和朋友一起聊天，同家人一起出游等等，增进人与人之间的关系，体会生活的美好。例如打打游戏，放松一下自己的大脑，看看小说，畅游奇幻世界等等也是完全没有问题的。</p><p>兴趣探索型：倘若你有足够的钱维持生活，又有时间花费在你感兴趣的事情上，那简直就是太完美了！兴趣探索一定要是正能量，而不是想着法子的捣乱，搞破坏，或者沉迷黄赌毒等，这样的兴趣我建议你趁早戒掉。</p><p>毫无意义型：毫无疑问的说，我们大部分人的大部分时间都花费到了我们认为的毫无意义的事物上，你不要过于沮丧，这是生命的常态，认知到这一点其实已经很不错了，同时这种认知也是推动自我发展的一种动力吧。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+      <tag>思考</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>随想</title>
+    <link href="/2020/08/29/%E9%9A%8F%E6%83%B3/"/>
+    <url>/2020/08/29/%E9%9A%8F%E6%83%B3/</url>
+    
+    <content type="html"><![CDATA[<p>我二十出头那些年</p><p>漫步在云端</p><p>不曾想被牛沉重的一撞</p><p>撞进了三十岁</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>随笔</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2020/08/29/hello-world/"/>
+    <url>/2020/08/29/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="hljs bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="hljs bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="hljs bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
